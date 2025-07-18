@@ -12,7 +12,6 @@ Nginx – API Gateway & Load Balancer
 
  -->
 
-GitHub Actions – CI/CD pipeline
 
 ## 🧩 Services & Features
 
