@@ -37,11 +37,6 @@ Docker ensures consistent environments and isolated service deployments.
 <!-- ### Deployment with Kubernetes:
 Each service runs in its own pod. Kubernetes handles auto-scaling, fault tolerance, and rolling updates. -->
 
-### CI/CD Pipeline:
-GitHub Actions automates builds, tests, and deployment to Docker Hub or a container registry.
-
-### Authentication & Authorization:
-JWT tokens are used for auth; passwords are hashed securely using argon2.
 
 ## ✅ Pre-requisites
 Docker & Docker Compose installed:
