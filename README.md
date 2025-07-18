@@ -22,7 +22,7 @@ GitHub Actions – CI/CD pipeline
 | **Product Service**  | Manage product listings, categories, inventory               |
 | **Shopping Cart Service** | Add/remove/update items in user carts                      |
 | **Order Service**    | Place orders, track status, manage order history             |
-| **Payment Service**  | Integrate Stripe for secure payment handling                 |
+| **Payment Service**  | Integrate Momo for secure payment handling                 |
 | **Notification Service** | Send email (via NodeMailer) notifications |
 
 ## ⚙️ Architecture Overview
